@@ -1,0 +1,3 @@
+# Footer Component Prompt
+
+Create a Next.js footer component with a 4-column responsive grid containing: (1) company section with heading "[COMPANY_NAME]" and description "[COMPANY_DESCRIPTION]", (2) Links section with navigation to Home, About, Contact, (3) Contact section with address "[ADDRESS]", email "[EMAIL]", phone "[PHONE]" with icons, (4) Legal section with links to privacy-policy, terms-and-conditions, cookie-policy; below add company registration info "Company Name: [COMPANY_NAME]" and "Registered Address: [REGISTERED_ADDRESS]", plus copyright "© [YEAR] [COMPANY_NAME]. All rights reserved."; use dark gray background, light gray text, white headings, hover effects, and responsive design.
